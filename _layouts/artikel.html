@@ -1,0 +1,38 @@
+---
+title: Artikel
+layout: default
+---
+
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-2">
+    </div>
+    <div class="col-7">
+      <br>
+      <br>
+      <h2>{{ page.title }} </h2>
+      <p>
+        {{ page.sinopsis }}
+      </p>
+      <p>
+      Oleh <b>{{ page.penulis }}</b> |{{ page.tanggal }}
+      </p>
+      <br>
+    </div>
+    <img class="gx-0" src="{{ page.gambar | relative_url }}" alt="">
+    <div class="col-3">
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-2">
+    </div>
+    <div class="col-7">
+      <br>
+        {{ content }}
+      <br>
+    </div>
+    <div class="col-3">
+    </div>
+  </div>
+</div>
