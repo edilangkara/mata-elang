@@ -20,21 +20,11 @@
       </button>
       <div class="collapse navbar-collapse" id="navbarCollapse">
         <ul class="navbar-nav me-auto mb-2 mb-md-0">
-          <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="#">Asal Usul</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#">Agama</a>
-          </li>
-          <li class="nav-item">
-              <a class="nav-link" href="#">Ekonomi</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#">Galeri</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#">Olahraga</a>
-            </li>
+          {% assign nav_pages = site.html_pages | sort: 'nav_order' %}
+          {% for nav in nav_pages %} {% if nav.nav_order %}
+          <a class="nav-item nav-link {% if nav.url == page.url %} active {% endif %}" href="{{ nav.url  | relative_url}}">{{
+            nav.title }}</a>
+          {% endif %} {% endfor %}
         </ul>
         <form class="d-flex">
           <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
