@@ -1,0 +1,29 @@
+---
+layout: artikel
+title:  "Di Antara Dua Dunia"
+date:   2021-05-22
+categories: jekyll update
+thumbnail: "assets/gambar/thumbnail/Elang Semakin Terbang Tinggi.jpg"
+gambar: "assets/gambar/posts/Elang Semakin Terbang Tinggi.jpg"
+tanggal : 22 Mei 2021
+penulis : Hasan Bahta
+sinopsis : "Elang menjadi awet dalam diskursus publik Maluku Utara."
+---
+
+Edi Langkara - biasa disapa dengan singkatan heroik : Elang, bukanlah nama asing dalam "panggung" aktivisme politik Maluku Utara. Dua periode <!--sambung-->sebagai anggota DPRD Provinsi Maluku Utara periode 2009-2014 dan periode 2014-2019 dengan daerah pemilihan : Tidore Kepulauan, Halmahera Tengah, dan Halmahera Timur serta dua kali bertarung dalam Pemilihan Kepala Daerah Kabupaten Halmahera Tengah, periode 2007-2012 dan periode 2012-2017, tidak membuatnya menghentikan kepakan sayapnya.
+
+Kemampuannya bertarung dalam kontestasi serta menjaga "spirit sebagai petarung" membuahkan hasil. Tepat pada kali ketiga mengikuti kontestasi Pemilihan Kepala Daerah Kabupaten Halmahera Tengah periode 2017-2022 yang dilaksanakan tahun 2017 telah merentangkan sayapnya untuk terbang lebih tinggi. Elang memenangkan kontestasi itu.
+
+Elang merupakan sebuah fenomena. Terpaan spirit sebagai petarung memang tidak diperoleh dalam waktu singkat, atau mengandalkan situasional. Alumni Sosiologi STISIPOL Merdeka Manado angkatan 1988 ini merupakan figur yang tak pernah letih mengelola kemampuan potensinya. Sejak mahasiswa, Elang malang-melintang di organisasi ekstra kemahasiswaan maupun Resimen Mahasiswa (Menwa), hingga akhirnya mengantarkannya memasuki wilayah politik. Partai Golongan Karya (Golkar).
+
+Partai Golkar, tidak hanya memenuhi hasrat politik Elang, tetapi juga membesarkannya, memberinya banyak akses, dan merentangkan jaringan politiknya secara nasional. Melalui partai identik dengan warna kuning dan pohon beringin inilah, Elang mematangkan kapasitas dan kapabilitas dirinya. Mengasah potensi dan naluri politiknya. Namun, Elang bukanlah politisi yang dengan gampang terlena dalam wilayah nyaman politik, sebagaimana yang dialami sebagian besar politisi Maluku Utara. Elang sebaliknya, melahirkan gagasan melalui tulisan-tulisannya, serta dalam forum-forum diskusi ilmiah.
+
+##### Penulis dan Politisi : Saling Memproduksi
+
+Di tengah kesibukan dirinya sebagai anggota DPRD Provinsi Maluku Utara, Elang ternyata melahirkan banyak gagasan dan pikiran yang dituangkan melalui tulisan. Tulisan itu tidak hanya berhenti dalam pikiran dan hanya dinikmati sendiri, tetapi justru dipublikasikan melalui media cetak. Jadilah kesebelasan tulisan itu, yang kemudian dihimpun dalam buku : Catatan Refleksi. Tidak banyak anggota DPRD Provinsi Maluku Utara yang mampu mengawetkan gagasan dan pikiran melalui tulisan, apalagi buku. Pada posisi ini, Elang mampu tampil sebagai penulis sekaligus politisi. Atau politisi sekaligus penulis. Inilah yang menurut Ignas Kleden (2001 : xv), seorang penulis mungkin sangat berbeda dari seorang wakil partai politik, pemimpin partai Buruh, atau seorang anggota DPR. "Seorang penulis" demikian Kleden " kalau dia hendak jujur dan otentik adalah seorang individualis. "Karena seorang penulis kebetulan menghayati apa yang menjadi aspirasi banyak orang lain. Pada awal dan pada akhirnya penulis adalah penulis, dan dia bukanlah juru bicara sekelompok orang, apalagi juru bicara zamannya."
+
+Pernyataan Kleden di atas, mengisyaratkan, bahwa seorang penulis tidak bertanggung jawab kepada siapa-siapa, namun pada dirinya sendiri. Sehingga itulah akuntabilitasnya menurut Kleden bersifat privat dan egosentris. Berbeda dengan seorang politisi, apalagi wakil rakyat, bertanggung jawab kepada publik, pada konstituennya. Sepuluh atau bahkan mungkin lebih tulisan yang telah dipublikasikan melalui media cetak (Malut Post) menunjukkan bahwa Elang tidak hanya tampil sebagai anggota DPRD atau politisi, yang selalu merasa nyaman di atas menara gading. Elang juga hadir sebagai penulis, yang hendak berkutat dengan segala remah-remah persoalan sosial yang dihadapi masyarakat.
+
+Elang sekali lagi mencoba menautkan sebagaimana yang diistilahkan Pierre F. Boerdieu (1930-2002) sebagai "dialektika internalisasi dari eksternalitas dan eksternalisasi dari internalitas, " yang tidak lain dari habitus itu sendiri. Secara dialektika habitus merupakan "produk internalisasi struktur" dunia sosial. Dikatakan habitus, karena konsep habitus (kebiasaan) merupakan struktur mental atau kongnitif" digunakan aktor ketika berhadapan dengan kehidupan sosial. Di mana sang aktor dibekali serangkaian skema atau pola yang diinternalisasikan yang digunakan untuk merasakan, memahami, menyadari, dan menilai dunia sosial. Dari pola-pola itulah, aktor lalu memproduksi tindakan mereka serta menilainya. Elang menciptakan dan memproduksi tindakan sosialnya (yang berbeda dengan politisi kebanyakan) karena Elang mampu memahami, merasakan, menyadari, serta menilai dunia sosial (politik) yang dihadapinya selama ini, yang mungkin saja tidak memberinya apa-apa bagi upaya merubah kondisi. Naluri akademiknya terus meronta untuk menuangkan gagasan melalui tulisan.
+
+Elang mencoba menyeret dua dunia yang sebetulnya saling mengenal namun terasa jauh. Dunia politik, dunia sebagai wakil rakyat, dunia yang membutuhkan bicara dan dunia kepenulisan, dunia mengandalkan pikiran dan ketekunan menulis. Dalam pandangan Radhar Panca Dahana (2015:218) menjadi anggota parlemen, tak lebih dari satu pilihan kerja "bayaran" yang kadang artifisial, sekadar memenuhi jadwal. Rasa bangga dan terhormat karena dipercaya oleh banyak orang, tidak menjelma menjadi wibawa, empati, dan produk yang membela habis masa kini dan masa depan mereka yang diwakilinya. Tentang ini Elang berani melakukan otokritik melalui tulisan dalam bukunya itu dengan judul : "Parlemen Kita, Sebuah Otokritik".
