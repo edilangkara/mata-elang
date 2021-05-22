@@ -6,7 +6,7 @@ categories: jekyll update
 thumbnail: "assets/gambar/thumbnail/Elang Semakin Terbang Tinggi.jpg"
 gambar: "assets/gambar/posts/Elang Semakin Terbang Tinggi.jpg"
 tanggal : 22 Mei 2021
-penulis : Hasan Bahta
+penulis : Herman Oesman
 sinopsis : "Elang menjadi awet dalam diskursus publik Maluku Utara."
 ---
 
